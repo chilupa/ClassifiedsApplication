@@ -1,5 +1,4 @@
 # ClassifiedsApplication
-Online classifieds application using Angular JS
 
 To run the app, first install the dependencies with NPM.
 
