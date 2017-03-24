@@ -7,8 +7,7 @@ To run the app, first install the dependencies with NPM.
 npm install
 ```
 
-Then serve the app with whichever web server you like. You can use **http-server** for a quick solution.
-
+Used **http-server** throughout this application. 
 ```bash
 npm install -g http-server
 http-server
