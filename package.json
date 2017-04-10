@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Classifieds application using Angular JS",
   "main": "index.js",
-  "author": "Pavan Chilukuri",
+  "author": "Pavan",
   "license": "",
   "dependencies": {
     "angular": "^1.5.0",
